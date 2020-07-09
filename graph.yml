@@ -1,0 +1,9 @@
+---
+graph:
+  service:
+    tag: 1
+  config:
+    tag: 3
+  resources:
+    - type: module1
+      tag: 1
